@@ -1,10 +1,9 @@
-name: CI
+name: nemoclaw
 
 on:
   push:
     branches:
       - main
-      - master
       - develop
   pull_request:
     branches:
