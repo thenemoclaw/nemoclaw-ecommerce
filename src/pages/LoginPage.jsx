@@ -20,7 +20,7 @@ function LoginPage({ onLogin, demoPassword }) {
   return (
     <section className="login-page">
       <div className="login-left">
-        <p className="tag">Simple Ecommerce</p>
+        <p className="tag">Simple Ecommerce:</p>
         <h1>Login to continue shopping</h1>
         <p>
           Allowed users: <strong>ankit</strong> and <strong>abhay</strong>
